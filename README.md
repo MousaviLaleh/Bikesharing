@@ -58,4 +58,14 @@ Additional analysis would be beneficial by :
 <br/>
 ![07.png](images/07.png)
 
+- Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
+- Weekend rides are highest from 10:00 AM to 7:00 PM.
+- Those rides are mostly taken by male users.
+
+## Summary
+The data shows high activity of the bike sharing service in New York during the month of August 2019.
+The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+Additional analysis would be beneficial by :
+- comparing data for different months to determine trends across the year,
+- including weather data to find the correlation between the weather and the rides.
 
