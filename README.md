@@ -70,3 +70,4 @@ Additional analysis would be beneficial by :
 - comparing data for different months to determine trends across the year,
 - including weather data to find the correlation between the weather and the rides.
 
+<br/>
