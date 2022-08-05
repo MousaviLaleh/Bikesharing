@@ -64,7 +64,8 @@ Additional analysis would be beneficial by :
 
 ## Summary
 The data shows high activity of the bike sharing service in New York during the month of August 2019.
-The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers. 
+<br/>
 Additional analysis would be beneficial by :
 - comparing data for different months to determine trends across the year,
 - including weather data to find the correlation between the weather and the rides.
