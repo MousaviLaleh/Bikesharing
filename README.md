@@ -14,7 +14,10 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 ## Results
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/laleh1808/viz/NYC_CitiBike_16594003839910/NYCCitiBikeRidesharingAnalysis?publish=yes)
 
-### New York City data visualization for August 2019
+## New York City data visualization for August 2019
+
+### Average Trip Duration
+
 ![01.png](images/01.png)
 
 - There were over 2.3 million rides for the month of August 2019.
