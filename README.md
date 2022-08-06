@@ -9,7 +9,7 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 
 
 ### Resources
-- Data Resourec:  [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip) &nbsp; at &nbsp; [Citi Bike Website](https://ride.citibikenyc.com/system-data)
+- Data Resourec:&nbsp;  [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip) &nbsp; at &nbsp; [Citi Bike Website](https://ride.citibikenyc.com/system-data)
 <br/>
 
 ## Results
