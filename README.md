@@ -54,7 +54,7 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 
 ### Bike Trips by Weekday by Gender
 
-![05.png](images/05.png)   ![06.png](images/06.png)
+![06.png](images/06.png)   ![05.png](images/05.png)
 <br/>
 ![07.png](images/07.png)
 
