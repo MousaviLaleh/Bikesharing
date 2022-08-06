@@ -55,7 +55,9 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 ### Bike Trips by Weekday by Gender
 
 ![06.png](images/06.png) &nbsp; &nbsp; &nbsp; &nbsp;  ![05.png](images/05.png)
+
 <br/>
+
 ![07.png](images/07.png)
 
 - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
