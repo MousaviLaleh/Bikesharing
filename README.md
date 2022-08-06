@@ -30,14 +30,14 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 - There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
 - Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
-### August peak hours
+### August Peak Hours
 ![02png](images/02.png)
 
 - Highest activity hours are from 7-8 am and 5-7 pm and require the most resources mobilized.
 - The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
 
-### Checkout times for users
+### Checkout times by Users
 ![03.png](images/03.png)
 
 - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
@@ -51,7 +51,7 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 - Male users take approximately 3 times more rides than the female users.
 
 
-### Trips by Weekday by Gender
+### Bike Trips by Weekday by Gender
 
 ![05.png](images/05.png)   ![06.png](images/06.png)
 <br/>
