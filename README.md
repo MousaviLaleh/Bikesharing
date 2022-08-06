@@ -13,6 +13,7 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 
 ## Results
 <div align="center">
+  <a href="https://public.tableau.com/app/profile/laleh1808/viz/NYC_CitiBike_16594003839910/NYCCitiBikeRidesharingAnalysis?publish=yes"> Link to Tableau Dashboard </a>
   [Link to Tableau Dashboard](https://public.tableau.com/app/profile/laleh1808/viz/NYC_CitiBike_16594003839910/NYCCitiBikeRidesharingAnalysis?publish=yes)
 </div>
 
