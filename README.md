@@ -14,7 +14,7 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 ## Results
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/laleh1808/viz/NYC_CitiBike_16594003839910/NYCCitiBikeRidesharingAnalysis?publish=yes)
 
-## New York City data visualization for August 2019
+## NYC Citi Bike System data visualization for August 2019
 
 ### Average Trip Duration
 
