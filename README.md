@@ -13,12 +13,8 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 
 ## Results
 <div align="center">
-  my text here.
+  [Link to Tableau Dashboard](https://public.tableau.com/app/profile/laleh1808/viz/NYC_CitiBike_16594003839910/NYCCitiBikeRidesharingAnalysis?publish=yes)
 </div>
-
-<p align="center">
-  <p> [Link to Tableau Dashboard](https://public.tableau.com/app/profile/laleh1808/viz/NYC_CitiBike_16594003839910/NYCCitiBikeRidesharingAnalysis?publish=yes) </p>
-</p>
 
 ## NYC Citi Bike System data visualization for August 2019
 
