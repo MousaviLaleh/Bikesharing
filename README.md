@@ -12,7 +12,9 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 - Data Resourec:  [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip) &nbsp; at &nbsp; [Citi Bike Website](https://ride.citibikenyc.com/system-data)
 
 ## Results
-______ [Link to Tableau Dashboard](https://public.tableau.com/app/profile/laleh1808/viz/NYC_CitiBike_16594003839910/NYCCitiBikeRidesharingAnalysis?publish=yes)
+<p align="center">
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/laleh1808/viz/NYC_CitiBike_16594003839910/NYCCitiBikeRidesharingAnalysis?publish=yes)
+</p>
 
 ## NYC Citi Bike System data visualization for August 2019
 
