@@ -50,6 +50,7 @@ Using [Tableau](https://public.tableau.com/en-us/s/) and create a set of visuali
 
 - Male users take approximately 3 times more rides than the female users.
 
+<br/>
 
 ### Bike Trips by Weekday by Gender
 
